@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GoRiZa_Inventar.props" />
+</Project>
